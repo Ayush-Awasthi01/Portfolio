@@ -1,0 +1,33 @@
+[
+  {
+    "id": "drowsiness",
+    "title": "Driver Drowsiness Detection",
+    "summary": "Real-time detection using InceptionV3 and OpenCV with audible alerts.",
+    "tech": [
+      "Python",
+      "TensorFlow",
+      "OpenCV"
+    ],
+    "code": "https://github.com/ayushaw/drowsiness-detection"
+  },
+  {
+    "id": "churn",
+    "title": "Customer Churn Prediction",
+    "summary": "End-to-end ML pipeline with monitoring and dashboard.",
+    "tech": [
+      "Python",
+      "scikit-learn"
+    ],
+    "code": "https://github.com/ayushaw/churn-prediction"
+  },
+  {
+    "id": "elibrary",
+    "title": "E-Library Management",
+    "summary": "Role-based system with analytics and search.",
+    "tech": [
+      "Django",
+      "PostgreSQL"
+    ],
+    "code": "https://github.com/ayushaw/elibrary"
+  }
+]
