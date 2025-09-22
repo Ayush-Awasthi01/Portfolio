@@ -2,7 +2,7 @@
   {
     "id": "drowsiness",
     "title": "Driver Drowsiness Detection",
-    "summary": "Real-time detection using InceptionV3 and OpenCV with audible alerts.",
+    "summary": "Real-time detection of driver drowsiness using InceptionV3 and OpenCV with audible alerts.",
     "tech": [
       "Python",
       "TensorFlow",
@@ -13,21 +13,31 @@
   {
     "id": "churn",
     "title": "Customer Churn Prediction",
-    "summary": "End-to-end ML pipeline with monitoring and dashboard.",
+    "summary": "End-to-end machine learning pipeline for churn prediction with monitoring and dashboard.",
     "tech": [
       "Python",
       "scikit-learn"
     ],
-    "code": "https://github.com/ayushaw/churn-prediction"
+    "code": "https://github.com/Ayush-Awasthi01/Customer_Churn_Prediction"
   },
   {
     "id": "elibrary",
-    "title": "E-Library Management",
-    "summary": "Role-based system with analytics and search.",
+    "title": "E-Library Management System",
+    "summary": "Role-based library system with user management, analytics, and advanced search functionality.",
     "tech": [
       "Django",
       "PostgreSQL"
     ],
-    "code": "https://github.com/ayushaw/elibrary"
+    "code": "https://github.com/Ayush-Awasthi01/E_library_Management_System"
+  },
+  {
+    "id": "personalised-mentor-recommendation",
+    "title": "Personalised Mentor Recommendation System",
+    "summary": "Machine learning-based mentor recommendation system based on user profiles and preferences.",
+    "tech": [
+      "Python",
+      "scikit-learn"
+    ],
+    "code": "https://github.com/Ayush-Awasthi01/Mentor_Recommendation"
   }
 ]
