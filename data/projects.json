@@ -25,7 +25,7 @@
     "title": "E-Library Management System",
     "summary": "Role-based library system with user management, analytics, and advanced search functionality.",
     "tech": [
-      "Django",
+      "Flask",
       "PostgreSQL"
     ],
     "code": "https://github.com/Ayush-Awasthi01/E_library_Management_System"
